@@ -1,6 +1,6 @@
 # Linux server hardening & security audit
 
-## 📌 Project Overview
+## 🌄 Project Overview
 This project contains the security configuration and hardening scripts used for a made-up enterprise infrastructure ("IT-Box" - the name of our group we used for our school project). My role was to secure the DNS, mail, and VPN servers running on Ubuntu in Microsoft Azure.
 
 **Key Responsibilities:**
@@ -9,7 +9,7 @@ This project contains the security configuration and hardening scripts used for 
 * **Firewall Management:** Implemented strict **UFW** rules, allowing SSH only from the internal VPN network.
 * **Auditing:** Performed vulnerability scans using **Lynis**, **rkhunter**, and **chkrootkit**.
 
-## 🛠️ Hardening Measures
+## 💪 Hardening Measures
 
 ### 1. Service Hardening
 To minimize potential vulnerabilities, the following non-essential services were disabled:
@@ -34,9 +34,9 @@ Automated checks were implemented using industry-standard tools:
 * **Lynis:** For in-depth system security auditing.
 * **Chkrootkit & Rkhunter:** To scan for rootkits and suspicious file modifications.
 
-## 📂 Repository Contents
+## 📜 Repository Contents
 * `harden.sh` - Bash script for automating service disablement and tool installation.
 * `jail.local` - Configuration file for Fail2Ban.
 
 ---
-*Security Configuration by [Jesper Nilsson](https://github.com/JeNilSE)*
+*Security Configuration by [Me](https://github.com/JeNilSE)*

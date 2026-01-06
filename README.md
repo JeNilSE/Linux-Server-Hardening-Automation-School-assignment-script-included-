@@ -1,3 +1,6 @@
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-red?style=for-the-badge)
+
 # Linux server hardening & security audit
 
 ## 🌄 Project Overview
